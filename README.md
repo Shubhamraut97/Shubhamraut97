@@ -44,18 +44,4 @@
 
 ---
 
-## 📈 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shubhamraut97&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamraut97&layout=compact&theme=radical)  
-
----
-
-## 🔥 Streak Stats  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shubhamraut97&theme=radical)  
-
----
-
-## 🐍 Contribution Snake  
-![snake gif](https://github.com/Shubhamraut97/Shubhamraut97/blob/output/github-contribution-grid-snake.gif)
