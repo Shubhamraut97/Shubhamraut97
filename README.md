@@ -2,7 +2,7 @@
 
 💡 Passionate about **AI, Python, and Data Science**  
 🔭 Currently working on **AI-powered projects** (FastAPI, Django, ML)  
-🌱 Learning **C#** and **Advanced FastAPI**  
+🌱 Learning *mcp* and **Advanced FastAPI**  
 👯 Open to collaborating on **AI/ML + Web Development projects**  
 💬 Ask me about **Python, Django, FastAPI, Machine Learning**  
 📫 Reach me at **shubhamraut0097@gmail.com**  
@@ -40,7 +40,7 @@
 - Django | FastAPI | Flask | Streamlit  |langchain|langraph|RAG
 
 ### 🔧 Version Control  
-- Git | GitHub  
+- Git | GitHub  |docker
 
 ---
 
